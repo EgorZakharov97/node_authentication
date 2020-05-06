@@ -1,0 +1,210 @@
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:54:57.968Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:54:57.975Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:54:57.982Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:54:57.983Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:54:57.989Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:54:58.012Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:54:58.025Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:00.172Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:00.181Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:00.185Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:00.188Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:00.195Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:00.216Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:00.231Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:02.516Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:02.524Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:02.528Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:02.533Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:02.538Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:02.560Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:02.577Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:05.097Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:05.107Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:05.113Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:05.116Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:05.121Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:05.141Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:05.160Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:08.086Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:08.094Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:08.100Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:08.104Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:08.107Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:08.129Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:08.149Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:11.762Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:11.770Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:11.774Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:11.778Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:11.781Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:11.808Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:11.824Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:16.612Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:16.616Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:16.620Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:16.625Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:16.627Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:16.653Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:16.668Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:23.443Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:23.449Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:23.454Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:23.458Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:23.462Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:23.487Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:23.502Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:33.659Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:33.664Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:33.669Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:33.673Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:33.676Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:33.703Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:33.716Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:49.620Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:49.626Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:49.630Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:49.633Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:49.640Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:49.665Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:55:49.679Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:15.353Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:15.360Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:15.362Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:15.364Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:15.375Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:15.403Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:15.414Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:57.698Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:57.705Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:57.712Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:57.712Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:57.721Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:57.748Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:56:57.760Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:58:08.286Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:58:08.290Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:58:08.296Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:58:08.307Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:58:08.307Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:58:08.338Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T00:58:08.346Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:00:06.877Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:00:06.881Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:00:06.888Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:00:06.896Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:00:06.898Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:00:06.927Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:00:06.935Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:03:27.074Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:03:27.081Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:03:27.089Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:03:27.097Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:03:27.098Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:03:27.127Z"}
+error: Redis Error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-05-03T01:03:27.133Z"}

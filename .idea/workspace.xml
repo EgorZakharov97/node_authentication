@@ -2,8 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f140957-e39f-4abf-a4d3-72fe86182859" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tuttifashion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/info.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/authGoogle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/redisSetup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/sessionAndAuthenticationSetup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/userAuthentication.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/userStats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/RequestLog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/Analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/Authentication.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/Index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/cluster.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/worker.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +59,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bH8PCrb1JvciJk70pMwXJJ1es8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,7 +70,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../clustes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gangbang" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,29 +88,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588277631591</updated>
-      <workItem from="1588277632702" duration="1806000" />
+      <workItem from="1588277632702" duration="11270000" />
+      <workItem from="1588471103030" duration="26953000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1588365720769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588365720769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1588365741059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588365741059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1650" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588278040491">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1650" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588278040491" />
-    <state x="1558" y="300" key="CommitChangelistDialog2" timestamp="1588365719239">
+    <state x="1558" y="300" key="CommitChangelistDialog2" timestamp="1588365739930">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1558" y="300" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1588365719239" />
-    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1588365659766">
+    <state x="1558" y="300" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1588365739930" />
+    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1588650645706">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1588365659766" />
-    <state x="1512" y="439" key="Vcs.Push.Dialog.v2" timestamp="1588365725732">
+    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1588650645706" />
+    <state x="1512" y="439" key="Vcs.Push.Dialog.v2" timestamp="1588365743800">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1512" y="439" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1588365725732" />
+    <state x="1512" y="439" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1588365743800" />
+    <state x="1728" y="622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588551674907">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1728" y="622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1588551674907" />
   </component>
 </project>
