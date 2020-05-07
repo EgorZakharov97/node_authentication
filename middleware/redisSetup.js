@@ -4,7 +4,7 @@ const session = require('express-session'),
 	redisStore = require('connect-redis')(session),
 	mongoose = require('mongoose'),
 	util = require('util'),
-	logger = require('./logger');
+	logger = require('../tools/logger');
 
 module.exports = (app) => {
 	redisClient.on('error', (err) => {

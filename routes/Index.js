@@ -1,19 +1,29 @@
-const express = require('express');
+const express = require('express'),
+	isAuthenticated = require('../middleware/authCheck').isAuthenticated,
+	isAdmin = require('../middleware/authCheck').isAdmin,
+	logger = require('../tools/logger');
 let router = express.Router();
 
 router.get('/', (req, res) => {
-	if(!req.session.visits){
-		req.session.visits = 1;
+	if(req.isAuthenticated()){
+		logger.error('Sample error');
+		res.send('Hello, ' + req.user.displayName);
 	} else {
-		req.session.visits++;
+		if(req.session.visits){
+			req.session.visits++;
+		} else {
+			req.session.visits = 1;
+		}
+		res.json({msg: 'Hello, stranger', visits: req.session.visits})
 	}
-	console.log('Main page requested by port ' + process.pid);
-	const message = {
-		visit: 'Main page',
-		pid: process.pid,
-		numVisits: req.session.visits
-	};
-	res.json(message)
+});
+
+router.get('/secret', isAuthenticated, (req, res) => {
+	res.send("This is a protected page for authorized users");
+});
+
+router.get('/admin', isAdmin, (req, res) => {
+	res.send("This is a protected page for admin");
 });
 
 module.exports = router;

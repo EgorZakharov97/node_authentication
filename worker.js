@@ -4,13 +4,14 @@ const express = require('express'),
 	mongoose = require('mongoose'),
 	bodyParser = require('body-parser'),
 	methodOverride = require('method-override'),
-	path = require('path');
+	path = require('path'),
+	passport = require('passport');
 
 // APP
 const app = express();
 
 // REQUIRED FUNCTIONS
-const logger = require('./middleware/logger');
+const logger = require('./tools/logger');
 const userStats = require('./middleware/userStats');
 
 // ROUTES
@@ -26,13 +27,17 @@ require('./middleware/redisSetup')(app);
 mongoose.connect(process.env.DB_CONNECT, {useNewUrlParser: true, useUnifiedTopology: true});
 
 // Other settings
-app.set('public', path.join(__dirname, 'public'));
+// app.set('public', path.join(__dirname, 'public'));
+app.use('/public', express.static(path.join(__dirname, 'public')));
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
 app.use(methodOverride("_method"));
-app.use(express.static(path.join(__dirname, 'build')));
 
 app.use(userStats);
+
+// AUTHENTICATION
+require('./authentication/session')(app);
+require('./authentication/passportSetup')(app);
 
 // USE ROUTES
 app.use(IndexRoutes);

@@ -1,6 +1,6 @@
 const cpus = require('os').cpus(),
 	cluster = require('cluster'),
-	logger = require('./middleware/logger');
+	logger = require('./tools/logger');
 
 if(cluster.isMaster){
 	logger.info('The master process has pid ' + process.pid);

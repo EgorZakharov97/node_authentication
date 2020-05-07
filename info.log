@@ -1570,3 +1570,424 @@ info: Worker 3304 has started at port 3000 {"timestamp":"2020-05-05T04:42:57.888
 info: Worker 14288 has started at port 3000 {"timestamp":"2020-05-05T04:42:57.893Z"}
 info: Worker 16320 has started at port 3000 {"timestamp":"2020-05-05T04:42:57.911Z"}
 info: Worker 17824 has started at port 3000 {"timestamp":"2020-05-05T07:12:48.028Z"}
+info: The master process has pid 19184 {"timestamp":"2020-05-06T20:32:13.424Z"}
+info: Worker 17100 has started at port 3000 {"timestamp":"2020-05-06T20:32:14.975Z"}
+info: Worker 11404 has started at port 3000 {"timestamp":"2020-05-06T20:32:14.975Z"}
+info: Worker 19240 has started at port 3000 {"timestamp":"2020-05-06T20:32:14.976Z"}
+info: Worker 4116 has started at port 3000 {"timestamp":"2020-05-06T20:32:14.976Z"}
+info: Worker 14356 has started at port 3000 {"timestamp":"2020-05-06T20:32:14.982Z"}
+info: Worker 13292 has started at port 3000 {"timestamp":"2020-05-06T20:32:14.982Z"}
+info: Worker 10800 has started at port 3000 {"timestamp":"2020-05-06T20:32:15.013Z"}
+warn: Worker died! Pid: 13292 {"timestamp":"2020-05-06T20:36:24.918Z"}
+warn: Worker died! Pid: 19240 {"timestamp":"2020-05-06T20:36:24.927Z"}
+warn: Worker died! Pid: 17100 {"timestamp":"2020-05-06T20:36:24.932Z"}
+warn: Worker died! Pid: 4116 {"timestamp":"2020-05-06T20:36:24.938Z"}
+info: The master process has pid 16816 {"timestamp":"2020-05-06T20:36:25.229Z"}
+info: Worker 8748 has started at port 3000 {"timestamp":"2020-05-06T20:36:26.775Z"}
+info: Worker 12572 has started at port 3000 {"timestamp":"2020-05-06T20:36:26.813Z"}
+info: Worker 16392 has started at port 3000 {"timestamp":"2020-05-06T20:36:26.818Z"}
+info: Worker 1888 has started at port 3000 {"timestamp":"2020-05-06T20:36:26.827Z"}
+info: Worker 11644 has started at port 3000 {"timestamp":"2020-05-06T20:36:26.842Z"}
+info: Worker 17024 has started at port 3000 {"timestamp":"2020-05-06T20:36:26.850Z"}
+info: Worker 5068 has started at port 3000 {"timestamp":"2020-05-06T20:36:26.908Z"}
+info: The master process has pid 17236 {"timestamp":"2020-05-06T20:38:37.444Z"}
+warn: Worker died! Pid: 16408 {"timestamp":"2020-05-06T20:38:38.924Z"}
+warn: Worker died! Pid: 15696 {"timestamp":"2020-05-06T20:38:38.932Z"}
+warn: Worker died! Pid: 18528 {"timestamp":"2020-05-06T20:38:38.941Z"}
+warn: Worker died! Pid: 13628 {"timestamp":"2020-05-06T20:38:38.949Z"}
+warn: Worker died! Pid: 18648 {"timestamp":"2020-05-06T20:38:38.955Z"}
+warn: Worker died! Pid: 17764 {"timestamp":"2020-05-06T20:38:38.961Z"}
+warn: Worker died! Pid: 11860 {"timestamp":"2020-05-06T20:38:38.968Z"}
+info: The master process has pid 17456 {"timestamp":"2020-05-06T20:39:07.832Z"}
+info: Worker 17952 has started at port 3000 {"timestamp":"2020-05-06T20:39:09.270Z"}
+info: Worker 1716 has started at port 3000 {"timestamp":"2020-05-06T20:39:09.270Z"}
+info: Worker 16956 has started at port 3000 {"timestamp":"2020-05-06T20:39:09.273Z"}
+info: Worker 15772 has started at port 3000 {"timestamp":"2020-05-06T20:39:09.275Z"}
+info: Worker 18988 has started at port 3000 {"timestamp":"2020-05-06T20:39:09.311Z"}
+info: Worker 16608 has started at port 3000 {"timestamp":"2020-05-06T20:39:09.316Z"}
+info: Worker 15568 has started at port 3000 {"timestamp":"2020-05-06T20:39:09.335Z"}
+info: The master process has pid 644 {"timestamp":"2020-05-06T20:40:01.326Z"}
+info: Worker 16096 has started at port 3000 {"timestamp":"2020-05-06T20:40:02.761Z"}
+info: Worker 14556 has started at port 3000 {"timestamp":"2020-05-06T20:40:02.767Z"}
+info: Worker 8648 has started at port 3000 {"timestamp":"2020-05-06T20:40:02.785Z"}
+info: Worker 10108 has started at port 3000 {"timestamp":"2020-05-06T20:40:02.798Z"}
+info: Worker 16104 has started at port 3000 {"timestamp":"2020-05-06T20:40:02.799Z"}
+info: Worker 9424 has started at port 3000 {"timestamp":"2020-05-06T20:40:02.820Z"}
+info: Worker 9288 has started at port 3000 {"timestamp":"2020-05-06T20:40:02.857Z"}
+info: The master process has pid 17620 {"timestamp":"2020-05-06T21:13:30.774Z"}
+info: Worker 15956 has started at port 3000 {"timestamp":"2020-05-06T21:13:32.178Z"}
+info: Worker 5932 has started at port 3000 {"timestamp":"2020-05-06T21:13:32.193Z"}
+info: Worker 16304 has started at port 3000 {"timestamp":"2020-05-06T21:13:32.204Z"}
+info: Worker 9540 has started at port 3000 {"timestamp":"2020-05-06T21:13:32.206Z"}
+info: Worker 12740 has started at port 3000 {"timestamp":"2020-05-06T21:13:32.211Z"}
+info: Worker 1416 has started at port 3000 {"timestamp":"2020-05-06T21:13:32.218Z"}
+info: Worker 13264 has started at port 3000 {"timestamp":"2020-05-06T21:13:32.248Z"}
+info: The master process has pid 12872 {"timestamp":"2020-05-06T21:14:56.992Z"}
+info: Worker 9564 has started at port 3000 {"timestamp":"2020-05-06T21:14:58.452Z"}
+info: Worker 15780 has started at port 3000 {"timestamp":"2020-05-06T21:14:58.452Z"}
+info: Worker 244 has started at port 3000 {"timestamp":"2020-05-06T21:14:58.457Z"}
+info: Worker 7824 has started at port 3000 {"timestamp":"2020-05-06T21:14:58.465Z"}
+info: Worker 13376 has started at port 3000 {"timestamp":"2020-05-06T21:14:58.464Z"}
+info: Worker 15992 has started at port 3000 {"timestamp":"2020-05-06T21:14:58.471Z"}
+info: Worker 18864 has started at port 3000 {"timestamp":"2020-05-06T21:14:58.495Z"}
+info: The master process has pid 15860 {"timestamp":"2020-05-06T21:15:31.126Z"}
+info: Worker 9680 has started at port 3000 {"timestamp":"2020-05-06T21:15:32.720Z"}
+info: Worker 12704 has started at port 3000 {"timestamp":"2020-05-06T21:15:32.724Z"}
+info: Worker 16224 has started at port 3000 {"timestamp":"2020-05-06T21:15:32.731Z"}
+info: Worker 14996 has started at port 3000 {"timestamp":"2020-05-06T21:15:32.735Z"}
+info: Worker 8712 has started at port 3000 {"timestamp":"2020-05-06T21:15:32.743Z"}
+info: Worker 17088 has started at port 3000 {"timestamp":"2020-05-06T21:15:32.755Z"}
+info: Worker 5704 has started at port 3000 {"timestamp":"2020-05-06T21:15:32.775Z"}
+info: The master process has pid 12316 {"timestamp":"2020-05-06T21:17:20.416Z"}
+warn: Worker died! Pid: 7496 {"timestamp":"2020-05-06T21:17:21.728Z"}
+warn: Worker died! Pid: 7756 {"timestamp":"2020-05-06T21:17:21.733Z"}
+warn: Worker died! Pid: 16012 {"timestamp":"2020-05-06T21:17:21.739Z"}
+warn: Worker died! Pid: 12388 {"timestamp":"2020-05-06T21:17:21.745Z"}
+warn: Worker died! Pid: 17484 {"timestamp":"2020-05-06T21:17:21.750Z"}
+warn: Worker died! Pid: 1388 {"timestamp":"2020-05-06T21:17:21.755Z"}
+warn: Worker died! Pid: 15856 {"timestamp":"2020-05-06T21:17:21.811Z"}
+info: The master process has pid 12512 {"timestamp":"2020-05-06T21:17:33.226Z"}
+info: Worker 16824 has started at port 3000 {"timestamp":"2020-05-06T21:17:34.607Z"}
+info: Worker 2980 has started at port 3000 {"timestamp":"2020-05-06T21:17:34.629Z"}
+info: Worker 12628 has started at port 3000 {"timestamp":"2020-05-06T21:17:34.638Z"}
+info: Worker 9392 has started at port 3000 {"timestamp":"2020-05-06T21:17:34.639Z"}
+info: Worker 4568 has started at port 3000 {"timestamp":"2020-05-06T21:17:34.643Z"}
+info: Worker 15108 has started at port 3000 {"timestamp":"2020-05-06T21:17:34.671Z"}
+info: Worker 16920 has started at port 3000 {"timestamp":"2020-05-06T21:17:34.671Z"}
+info: The master process has pid 17288 {"timestamp":"2020-05-06T21:18:49.218Z"}
+info: Worker 10068 has started at port 3000 {"timestamp":"2020-05-06T21:18:50.786Z"}
+info: Worker 13060 has started at port 3000 {"timestamp":"2020-05-06T21:18:50.805Z"}
+info: Worker 13020 has started at port 3000 {"timestamp":"2020-05-06T21:18:50.818Z"}
+info: Worker 5528 has started at port 3000 {"timestamp":"2020-05-06T21:18:50.833Z"}
+info: Worker 9176 has started at port 3000 {"timestamp":"2020-05-06T21:18:50.836Z"}
+info: Worker 13372 has started at port 3000 {"timestamp":"2020-05-06T21:18:50.853Z"}
+info: Worker 8644 has started at port 3000 {"timestamp":"2020-05-06T21:18:50.859Z"}
+warn: Worker died! Pid: 13060 {"timestamp":"2020-05-06T21:21:01.590Z"}
+info: The master process has pid 3040 {"timestamp":"2020-05-06T21:21:01.858Z"}
+info: Worker 11228 has started at port 3000 {"timestamp":"2020-05-06T21:21:03.309Z"}
+info: Worker 14516 has started at port 3000 {"timestamp":"2020-05-06T21:21:03.314Z"}
+info: Worker 18204 has started at port 3000 {"timestamp":"2020-05-06T21:21:03.318Z"}
+info: Worker 15176 has started at port 3000 {"timestamp":"2020-05-06T21:21:03.320Z"}
+info: Worker 12316 has started at port 3000 {"timestamp":"2020-05-06T21:21:03.325Z"}
+info: Worker 1248 has started at port 3000 {"timestamp":"2020-05-06T21:21:03.339Z"}
+info: Worker 10800 has started at port 3000 {"timestamp":"2020-05-06T21:21:03.339Z"}
+info: The master process has pid 11868 {"timestamp":"2020-05-06T21:21:53.254Z"}
+info: Worker 13032 has started at port 3000 {"timestamp":"2020-05-06T21:21:54.766Z"}
+info: Worker 18972 has started at port 3000 {"timestamp":"2020-05-06T21:21:54.769Z"}
+info: Worker 13124 has started at port 3000 {"timestamp":"2020-05-06T21:21:54.773Z"}
+info: Worker 16632 has started at port 3000 {"timestamp":"2020-05-06T21:21:54.780Z"}
+info: Worker 17816 has started at port 3000 {"timestamp":"2020-05-06T21:21:54.790Z"}
+info: Worker 14140 has started at port 3000 {"timestamp":"2020-05-06T21:21:54.801Z"}
+info: Worker 18808 has started at port 3000 {"timestamp":"2020-05-06T21:21:54.804Z"}
+warn: Worker died! Pid: 18972 {"timestamp":"2020-05-06T21:23:00.747Z"}
+warn: Worker died! Pid: 18808 {"timestamp":"2020-05-06T21:23:00.755Z"}
+warn: Worker died! Pid: 13124 {"timestamp":"2020-05-06T21:23:00.761Z"}
+warn: Worker died! Pid: 16632 {"timestamp":"2020-05-06T21:23:00.766Z"}
+warn: Worker died! Pid: 13032 {"timestamp":"2020-05-06T21:23:00.773Z"}
+warn: Worker died! Pid: 14140 {"timestamp":"2020-05-06T21:23:00.783Z"}
+info: The master process has pid 4408 {"timestamp":"2020-05-06T21:23:01.102Z"}
+info: Worker 204 has started at port 3000 {"timestamp":"2020-05-06T21:23:02.665Z"}
+info: Worker 14380 has started at port 3000 {"timestamp":"2020-05-06T21:23:02.681Z"}
+info: Worker 16836 has started at port 3000 {"timestamp":"2020-05-06T21:23:02.684Z"}
+info: Worker 15888 has started at port 3000 {"timestamp":"2020-05-06T21:23:02.695Z"}
+info: Worker 4716 has started at port 3000 {"timestamp":"2020-05-06T21:23:02.702Z"}
+info: Worker 15660 has started at port 3000 {"timestamp":"2020-05-06T21:23:02.714Z"}
+info: Worker 12696 has started at port 3000 {"timestamp":"2020-05-06T21:23:02.715Z"}
+warn: Worker died! Pid: 14380 {"timestamp":"2020-05-06T21:24:56.607Z"}
+info: The master process has pid 9324 {"timestamp":"2020-05-06T21:24:56.885Z"}
+info: Worker 3528 has started at port 3000 {"timestamp":"2020-05-06T21:24:58.357Z"}
+info: Worker 4008 has started at port 3000 {"timestamp":"2020-05-06T21:24:58.378Z"}
+info: Worker 3976 has started at port 3000 {"timestamp":"2020-05-06T21:24:58.384Z"}
+info: Worker 6204 has started at port 3000 {"timestamp":"2020-05-06T21:24:58.387Z"}
+info: Worker 13716 has started at port 3000 {"timestamp":"2020-05-06T21:24:58.412Z"}
+info: Worker 16388 has started at port 3000 {"timestamp":"2020-05-06T21:24:58.417Z"}
+info: Worker 15204 has started at port 3000 {"timestamp":"2020-05-06T21:24:58.423Z"}
+info: The master process has pid 16432 {"timestamp":"2020-05-06T21:31:47.669Z"}
+warn: Worker died! Pid: 13224 {"timestamp":"2020-05-06T21:31:49.121Z"}
+warn: Worker died! Pid: 10388 {"timestamp":"2020-05-06T21:31:49.130Z"}
+warn: Worker died! Pid: 16480 {"timestamp":"2020-05-06T21:31:49.146Z"}
+warn: Worker died! Pid: 10380 {"timestamp":"2020-05-06T21:31:49.169Z"}
+warn: Worker died! Pid: 7328 {"timestamp":"2020-05-06T21:31:49.175Z"}
+warn: Worker died! Pid: 15740 {"timestamp":"2020-05-06T21:31:49.216Z"}
+warn: Worker died! Pid: 6012 {"timestamp":"2020-05-06T21:31:49.231Z"}
+info: The master process has pid 18872 {"timestamp":"2020-05-06T21:32:18.135Z"}
+warn: Worker died! Pid: 14064 {"timestamp":"2020-05-06T21:32:18.513Z"}
+warn: Worker died! Pid: 16544 {"timestamp":"2020-05-06T21:32:18.520Z"}
+info: The master process has pid 724 {"timestamp":"2020-05-06T21:32:18.789Z"}
+warn: Worker died! Pid: 13208 {"timestamp":"2020-05-06T21:32:20.595Z"}
+warn: Worker died! Pid: 8024 {"timestamp":"2020-05-06T21:32:20.625Z"}
+warn: Worker died! Pid: 14232 {"timestamp":"2020-05-06T21:32:20.630Z"}
+warn: Worker died! Pid: 13368 {"timestamp":"2020-05-06T21:32:20.636Z"}
+warn: Worker died! Pid: 13512 {"timestamp":"2020-05-06T21:32:20.641Z"}
+warn: Worker died! Pid: 8328 {"timestamp":"2020-05-06T21:32:20.655Z"}
+warn: Worker died! Pid: 4792 {"timestamp":"2020-05-06T21:32:20.662Z"}
+info: The master process has pid 17148 {"timestamp":"2020-05-06T21:32:58.400Z"}
+warn: Worker died! Pid: 18304 {"timestamp":"2020-05-06T21:33:00.107Z"}
+warn: Worker died! Pid: 12528 {"timestamp":"2020-05-06T21:33:00.114Z"}
+warn: Worker died! Pid: 10228 {"timestamp":"2020-05-06T21:33:00.126Z"}
+warn: Worker died! Pid: 232 {"timestamp":"2020-05-06T21:33:00.142Z"}
+warn: Worker died! Pid: 15668 {"timestamp":"2020-05-06T21:33:00.182Z"}
+warn: Worker died! Pid: 11640 {"timestamp":"2020-05-06T21:33:00.187Z"}
+warn: Worker died! Pid: 2404 {"timestamp":"2020-05-06T21:33:00.195Z"}
+info: The master process has pid 8160 {"timestamp":"2020-05-06T21:34:07.313Z"}
+info: Worker 16172 has started at port 3000 {"timestamp":"2020-05-06T21:34:08.774Z"}
+info: Worker 2712 has started at port 3000 {"timestamp":"2020-05-06T21:34:08.783Z"}
+info: Worker 17576 has started at port 3000 {"timestamp":"2020-05-06T21:34:08.800Z"}
+info: Worker 11052 has started at port 3000 {"timestamp":"2020-05-06T21:34:08.814Z"}
+info: Worker 13904 has started at port 3000 {"timestamp":"2020-05-06T21:34:08.817Z"}
+info: Worker 16756 has started at port 3000 {"timestamp":"2020-05-06T21:34:08.829Z"}
+info: Worker 12876 has started at port 3000 {"timestamp":"2020-05-06T21:34:08.852Z"}
+info: The master process has pid 12624 {"timestamp":"2020-05-06T21:38:16.849Z"}
+info: Worker 14416 has started at port 3000 {"timestamp":"2020-05-06T21:38:18.387Z"}
+info: Worker 10688 has started at port 3000 {"timestamp":"2020-05-06T21:38:18.390Z"}
+info: Worker 12600 has started at port 3000 {"timestamp":"2020-05-06T21:38:18.395Z"}
+info: Worker 12352 has started at port 3000 {"timestamp":"2020-05-06T21:38:18.410Z"}
+info: Worker 11644 has started at port 3000 {"timestamp":"2020-05-06T21:38:18.415Z"}
+info: Worker 5968 has started at port 3000 {"timestamp":"2020-05-06T21:38:18.430Z"}
+info: Worker 6940 has started at port 3000 {"timestamp":"2020-05-06T21:38:18.437Z"}
+info: Worker 16096 has started at port 3000 {"timestamp":"2020-05-06T21:41:37.716Z"}
+info: Worker 14844 has started at port 3000 {"timestamp":"2020-05-06T22:28:44.323Z"}
+info: Worker 8660 has started at port 3000 {"timestamp":"2020-05-06T22:31:08.164Z"}
+info: Worker 18600 has started at port 3000 {"timestamp":"2020-05-06T22:33:35.442Z"}
+info: Worker 12852 has started at port 3000 {"timestamp":"2020-05-06T22:34:38.172Z"}
+info: Worker 9412 has started at port 3000 {"timestamp":"2020-05-06T22:34:58.980Z"}
+info: Worker 11372 has started at port 3000 {"timestamp":"2020-05-06T22:35:30.264Z"}
+info: Worker 14912 has started at port 3000 {"timestamp":"2020-05-06T22:36:57.027Z"}
+info: Worker 15452 has started at port 3000 {"timestamp":"2020-05-06T22:40:00.170Z"}
+info: Worker 19128 has started at port 3000 {"timestamp":"2020-05-06T22:41:14.461Z"}
+info: Worker 3200 has started at port 3000 {"timestamp":"2020-05-06T22:44:17.605Z"}
+info: Worker 18184 has started at port 3000 {"timestamp":"2020-05-06T22:44:30.705Z"}
+info: Worker 17636 has started at port 3000 {"timestamp":"2020-05-06T22:45:58.254Z"}
+info: Worker 5608 has started at port 3000 {"timestamp":"2020-05-06T22:46:23.027Z"}
+info: Worker 11620 has started at port 3000 {"timestamp":"2020-05-06T23:00:28.211Z"}
+info: Worker 1412 has started at port 3000 {"timestamp":"2020-05-06T23:09:48.516Z"}
+info: New user created: undefined, id: 5eb343c012651105846499db {"timestamp":"2020-05-06T23:09:52.922Z"}
+info: Worker 2204 has started at port 3000 {"timestamp":"2020-05-06T23:11:09.165Z"}
+info: User logged in: Егор Захаров, id: 5eb343c012651105846499db {"timestamp":"2020-05-06T23:12:10.551Z"}
+info: Worker 7624 has started at port 3000 {"timestamp":"2020-05-06T23:12:38.940Z"}
+info: Worker 684 has started at port 3000 {"timestamp":"2020-05-06T23:12:58.652Z"}
+info: Worker 12732 has started at port 3000 {"timestamp":"2020-05-06T23:14:45.491Z"}
+info: Worker 17376 has started at port 3000 {"timestamp":"2020-05-06T23:15:35.759Z"}
+info: Worker 11560 has started at port 3000 {"timestamp":"2020-05-06T23:15:38.052Z"}
+info: Worker 9272 has started at port 3000 {"timestamp":"2020-05-06T23:16:56.945Z"}
+info: Worker 15088 has started at port 3000 {"timestamp":"2020-05-06T23:20:12.622Z"}
+info: Worker 11312 has started at port 3000 {"timestamp":"2020-05-06T23:29:12.931Z"}
+info: Worker 15108 has started at port 3000 {"timestamp":"2020-05-06T23:29:31.490Z"}
+info: Worker 19424 has started at port 3000 {"timestamp":"2020-05-06T23:29:46.217Z"}
+info: Worker 15996 has started at port 3000 {"timestamp":"2020-05-06T23:31:02.011Z"}
+info: Worker 9036 has started at port 3000 {"timestamp":"2020-05-06T23:31:12.935Z"}
+info: Worker 18924 has started at port 3000 {"timestamp":"2020-05-06T23:31:26.168Z"}
+info: Worker 15940 has started at port 3000 {"timestamp":"2020-05-06T23:32:21.513Z"}
+info: Worker 13324 has started at port 3000 {"timestamp":"2020-05-06T23:33:13.424Z"}
+info: Worker 11488 has started at port 3000 {"timestamp":"2020-05-06T23:33:56.046Z"}
+info: Worker 14904 has started at port 3000 {"timestamp":"2020-05-06T23:34:09.125Z"}
+info: Worker 2860 has started at port 3000 {"timestamp":"2020-05-06T23:34:39.022Z"}
+info: Worker 12392 has started at port 3000 {"timestamp":"2020-05-06T23:36:38.534Z"}
+info: Worker 13756 has started at port 3000 {"timestamp":"2020-05-06T23:36:51.526Z"}
+info: Worker 12896 has started at port 3000 {"timestamp":"2020-05-06T23:37:03.583Z"}
+info: Worker 12572 has started at port 3000 {"timestamp":"2020-05-06T23:38:54.677Z"}
+info: Worker 12952 has started at port 3000 {"timestamp":"2020-05-07T00:07:52.505Z"}
+info: Worker 14648 has started at port 3000 {"timestamp":"2020-05-07T00:48:24.195Z"}
+info: Worker 18064 has started at port 3000 {"timestamp":"2020-05-07T00:48:35.803Z"}
+info: Worker 13100 has started at port 3000 {"timestamp":"2020-05-07T00:48:47.765Z"}
+info: Worker 3288 has started at port 3000 {"timestamp":"2020-05-07T00:50:20.126Z"}
+info: Worker 18104 has started at port 3000 {"timestamp":"2020-05-07T00:52:57.396Z"}
+info: Worker 18236 has started at port 3000 {"timestamp":"2020-05-07T00:53:48.291Z"}
+info: Worker 1496 has started at port 3000 {"timestamp":"2020-05-07T00:54:33.021Z"}
+info: Worker 232 has started at port 3000 {"timestamp":"2020-05-07T00:55:34.702Z"}
+info: Worker 17232 has started at port 3000 {"timestamp":"2020-05-07T00:55:45.278Z"}
+info: Worker 13768 has started at port 3000 {"timestamp":"2020-05-07T00:56:05.672Z"}
+info: Worker 9688 has started at port 3000 {"timestamp":"2020-05-07T01:01:18.275Z"}
+info: Worker 18348 has started at port 3000 {"timestamp":"2020-05-07T01:01:51.951Z"}
+info: Worker 16456 has started at port 3000 {"timestamp":"2020-05-07T01:03:52.236Z"}
+info: Worker 4700 has started at port 3000 {"timestamp":"2020-05-07T01:04:55.320Z"}
+info: Worker 11676 has started at port 3000 {"timestamp":"2020-05-07T01:05:46.015Z"}
+info: Worker 18184 has started at port 3000 {"timestamp":"2020-05-07T01:06:51.024Z"}
+info: Worker 8972 has started at port 3000 {"timestamp":"2020-05-07T01:07:27.594Z"}
+info: Worker 2972 has started at port 3000 {"timestamp":"2020-05-07T01:09:24.711Z"}
+info: Worker 14080 has started at port 3000 {"timestamp":"2020-05-07T01:10:23.043Z"}
+info: Worker 2712 has started at port 3000 {"timestamp":"2020-05-07T01:12:51.442Z"}
+info: Worker 5524 has started at port 3000 {"timestamp":"2020-05-07T01:14:08.716Z"}
+info: Worker 12468 has started at port 3000 {"timestamp":"2020-05-07T01:15:27.942Z"}
+info: User logged in: Егор Захаров, id: 5eb343c012651105846499db {"timestamp":"2020-05-07T01:16:42.053Z"}
+info: Worker 4836 has started at port 3000 {"timestamp":"2020-05-07T01:23:27.599Z"}
+info: Worker 10224 has started at port 3000 {"timestamp":"2020-05-07T01:23:43.186Z"}
+info: Worker 17960 has started at port 3000 {"timestamp":"2020-05-07T01:23:57.579Z"}
+info: Worker 9496 has started at port 3000 {"timestamp":"2020-05-07T01:24:19.130Z"}
+info: Worker 15860 has started at port 3000 {"timestamp":"2020-05-07T01:26:33.993Z"}
+info: Worker 17660 has started at port 3000 {"timestamp":"2020-05-07T01:27:58.124Z"}
+info: Worker 18084 has started at port 3000 {"timestamp":"2020-05-07T01:28:36.188Z"}
+info: Worker 14392 has started at port 3000 {"timestamp":"2020-05-07T01:28:59.055Z"}
+info: Worker 15628 has started at port 3000 {"timestamp":"2020-05-07T01:29:25.237Z"}
+info: Worker 5696 has started at port 3000 {"timestamp":"2020-05-07T01:30:03.698Z"}
+info: Worker 17224 has started at port 3000 {"timestamp":"2020-05-07T01:30:33.893Z"}
+info: Worker 1804 has started at port 3000 {"timestamp":"2020-05-07T01:31:34.888Z"}
+info: Worker 14748 has started at port 3000 {"timestamp":"2020-05-07T01:36:15.477Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:36:42.576Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:37:04.999Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:37:08.757Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:37:16.682Z"}
+info: Worker 18892 has started at port 3000 {"timestamp":"2020-05-07T01:39:14.340Z"}
+info: Worker 7564 has started at port 3000 {"timestamp":"2020-05-07T01:40:59.066Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:41:05.130Z"}
+info: Worker 15560 has started at port 3000 {"timestamp":"2020-05-07T01:41:36.766Z"}
+info: Worker 13456 has started at port 3000 {"timestamp":"2020-05-07T01:42:23.095Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:42:32.345Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:44:10.785Z"}
+info: Worker 19112 has started at port 3000 {"timestamp":"2020-05-07T01:45:35.399Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:45:41.960Z"}
+info: Worker 16768 has started at port 3000 {"timestamp":"2020-05-07T01:46:20.053Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:46:30.003Z"}
+info: Worker 4420 has started at port 3000 {"timestamp":"2020-05-07T01:46:55.167Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:47:01.826Z"}
+info: Worker 5848 has started at port 3000 {"timestamp":"2020-05-07T01:47:46.769Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:47:51.100Z"}
+info: Worker 1508 has started at port 3000 {"timestamp":"2020-05-07T01:50:58.304Z"}
+info: Worker 13108 has started at port 3000 {"timestamp":"2020-05-07T01:51:43.198Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:51:48.800Z"}
+info: Worker 1852 has started at port 3000 {"timestamp":"2020-05-07T01:59:03.611Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T01:59:10.613Z"}
+info: Worker 14068 has started at port 3000 {"timestamp":"2020-05-07T02:11:30.185Z"}
+info: Worker 16996 has started at port 3000 {"timestamp":"2020-05-07T02:15:39.444Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T02:15:46.133Z"}
+info: Worker 18172 has started at port 3000 {"timestamp":"2020-05-07T02:16:00.336Z"}
+info: New user created: Egor Zakharov, id: 5eb37002e71bad46fcf438fa {"timestamp":"2020-05-07T02:18:42.978Z"}
+info: User logged in: Egor Zakharov, id: 5eb37002e71bad46fcf438fa {"timestamp":"2020-05-07T02:18:53.828Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T02:19:27.703Z"}
+info: Worker 11424 has started at port 3000 {"timestamp":"2020-05-07T02:21:59.658Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T02:22:07.175Z"}
+info: Worker 6084 has started at port 3000 {"timestamp":"2020-05-07T02:22:33.355Z"}
+info: User logged in: Egor Zakharov, id: 5eb37002e71bad46fcf438fa {"timestamp":"2020-05-07T02:22:38.992Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T02:22:50.504Z"}
+info: Worker 6008 has started at port 3000 {"timestamp":"2020-05-07T02:28:08.927Z"}
+info: New user created: Egor Zakharov, id: 5eb37244621abc177866b20e {"timestamp":"2020-05-07T02:28:20.811Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T02:28:34.296Z"}
+info: Worker 10068 has started at port 3000 {"timestamp":"2020-05-07T02:28:53.043Z"}
+info: Worker 16332 has started at port 3000 {"timestamp":"2020-05-07T02:31:35.762Z"}
+info: Worker 10596 has started at port 3000 {"timestamp":"2020-05-07T02:31:45.235Z"}
+info: User logged in: Egor Zakharov, id: 5eb37244621abc177866b20e {"timestamp":"2020-05-07T02:31:55.156Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T02:32:08.677Z"}
+info: Worker 19212 has started at port 3000 {"timestamp":"2020-05-07T02:32:49.511Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T02:32:58.679Z"}
+info: Worker 1904 has started at port 3000 {"timestamp":"2020-05-07T02:33:28.962Z"}
+info: Worker 18988 has started at port 3000 {"timestamp":"2020-05-07T02:33:52.673Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T02:34:01.599Z"}
+info: Worker 10980 has started at port 3000 {"timestamp":"2020-05-07T02:35:42.787Z"}
+error: E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"id":1},"keyValue":{"id":null},"errmsg":"E11000 duplicate key error collection: shop_test.users index: id_1 dup key: { id: null }","timestamp":"2020-05-07T02:35:53.825Z"}
+info: Worker 17556 has started at port 3000 {"timestamp":"2020-05-07T02:36:30.100Z"}
+info: Worker 12000 has started at port 3000 {"timestamp":"2020-05-07T02:38:15.884Z"}
+info: New user created: Егор Захаров, id: 5eb374a6590c162ee040de08 {"timestamp":"2020-05-07T02:38:30.997Z"}
+info: User logged in: Егор Захаров, id: 5eb374a6590c162ee040de08 {"timestamp":"2020-05-07T02:38:42.793Z"}
+info: New user created: Egor Zakharov, id: 5eb374c0590c162ee040de0f {"timestamp":"2020-05-07T02:38:56.624Z"}
+info: Worker 15888 has started at port 3000 {"timestamp":"2020-05-07T02:40:04.551Z"}
+info: New user created: Egor Zakharov, id: 5eb37512f24df63e1072d2a0 {"timestamp":"2020-05-07T02:40:18.414Z"}
+info: New user created: Егор Захаров, id: 5eb3751bf24df63e1072d2a4 {"timestamp":"2020-05-07T02:40:27.971Z"}
+info: User logged in: Egor Zakharov, id: 5eb37512f24df63e1072d2a0 {"timestamp":"2020-05-07T02:40:44.469Z"}
+info: Worker 9704 has started at port 3000 {"timestamp":"2020-05-07T02:42:48.400Z"}
+info: Worker 9036 has started at port 3000 {"timestamp":"2020-05-07T02:45:49.849Z"}
+info: Worker 6300 has started at port 3000 {"timestamp":"2020-05-07T03:33:17.285Z"}
+info: Worker 14528 has started at port 3000 {"timestamp":"2020-05-07T03:34:06.297Z"}
+info: Worker 13596 has started at port 3000 {"timestamp":"2020-05-07T03:39:01.231Z"}
+info: Worker 18732 has started at port 3000 {"timestamp":"2020-05-07T03:43:34.453Z"}
+info: Worker 6848 has started at port 3000 {"timestamp":"2020-05-07T03:49:49.430Z"}
+error: User validation failed: dateBorn: Cast to Number failed for value "2020-05-19" at path "dateBorn" {"errors":{"dateBorn":{"stringValue":"\"2020-05-19\"","kind":"Number","value":"2020-05-19","path":"dateBorn","reason":{"stringValue":"\"2020-05-19\"","kind":"number","value":"2020-05-19","path":"dateBorn","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"message":"Cast to number failed for value \"2020-05-19\" at path \"dateBorn\"","name":"CastError"},"message":"Cast to Number failed for value \"2020-05-19\" at path \"dateBorn\"","name":"CastError"}},"_message":"User validation failed","name":"ValidationError","timestamp":"2020-05-07T03:49:50.467Z"}
+info: Worker 17160 has started at port 3000 {"timestamp":"2020-05-07T04:11:49.285Z"}
+error: User with email undefined already exists {"timestamp":"2020-05-07T04:11:57.884Z"}
+info: Worker 11936 has started at port 3000 {"timestamp":"2020-05-07T04:13:08.879Z"}
+error: User with email skim@gmail.com already exists {"timestamp":"2020-05-07T04:13:18.131Z"}
+info: Worker 5596 has started at port 3000 {"timestamp":"2020-05-07T04:13:38.074Z"}
+error: User with email skim@gmail.com already exists {"timestamp":"2020-05-07T04:13:44.110Z"}
+error: User validation failed: dateBorn: Cast to Number failed for value "2020-05-05" at path "dateBorn" {"errors":{"dateBorn":{"stringValue":"\"2020-05-05\"","kind":"Number","value":"2020-05-05","path":"dateBorn","reason":{"stringValue":"\"2020-05-05\"","kind":"number","value":"2020-05-05","path":"dateBorn","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"message":"Cast to number failed for value \"2020-05-05\" at path \"dateBorn\"","name":"CastError"},"message":"Cast to Number failed for value \"2020-05-05\" at path \"dateBorn\"","name":"CastError"}},"_message":"User validation failed","name":"ValidationError","timestamp":"2020-05-07T04:13:44.111Z"}
+info: Worker 16768 has started at port 3000 {"timestamp":"2020-05-07T04:14:13.417Z"}
+info: Worker 16756 has started at port 3000 {"timestamp":"2020-05-07T04:16:17.686Z"}
+info: Worker 13336 has started at port 3000 {"timestamp":"2020-05-07T04:16:53.235Z"}
+info: Worker 3820 has started at port 3000 {"timestamp":"2020-05-07T04:17:28.143Z"}
+info: Worker 17596 has started at port 3000 {"timestamp":"2020-05-07T04:20:19.684Z"}
+error: E11000 duplicate key error collection: shop_test.users index: email_1 dup key: { email: "skim@gmail.com" } {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"skim@gmail.com"},"errmsg":"E11000 duplicate key error collection: shop_test.users index: email_1 dup key: { email: \"skim@gmail.com\" }","timestamp":"2020-05-07T04:20:22.409Z"}
+info: Worker 16540 has started at port 3000 {"timestamp":"2020-05-07T04:21:10.073Z"}
+info: Worker 12804 has started at port 3000 {"timestamp":"2020-05-07T04:23:29.739Z"}
+info: Worker 13816 has started at port 3000 {"timestamp":"2020-05-07T04:23:49.042Z"}
+info: Worker 12764 has started at port 3000 {"timestamp":"2020-05-07T04:24:04.872Z"}
+info: Worker 14940 has started at port 3000 {"timestamp":"2020-05-07T04:28:43.984Z"}
+info: Worker 18820 has started at port 3000 {"timestamp":"2020-05-07T04:29:22.661Z"}
+info: Worker 18464 has started at port 3000 {"timestamp":"2020-05-07T04:30:27.870Z"}
+info: Worker 18168 has started at port 3000 {"timestamp":"2020-05-07T04:31:04.932Z"}
+info: Worker 8544 has started at port 3000 {"timestamp":"2020-05-07T04:32:07.488Z"}
+info: Worker 13500 has started at port 3000 {"timestamp":"2020-05-07T04:33:02.081Z"}
+info: Worker 18256 has started at port 3000 {"timestamp":"2020-05-07T04:33:43.343Z"}
+info: Worker 13356 has started at port 3000 {"timestamp":"2020-05-07T04:33:52.938Z"}
+info: Worker 14524 has started at port 3000 {"timestamp":"2020-05-07T04:34:25.811Z"}
+info: Worker 7176 has started at port 3000 {"timestamp":"2020-05-07T04:37:05.386Z"}
+info: Worker 12728 has started at port 3000 {"timestamp":"2020-05-07T05:08:15.274Z"}
+info: Worker 12632 has started at port 3000 {"timestamp":"2020-05-07T05:13:04.089Z"}
+info: Worker 8072 has started at port 3000 {"timestamp":"2020-05-07T05:13:29.433Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials x195sm3683390pfc.0 - gsmtp {"code":"EAUTH","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials x195sm3683390pfc.0 - gsmtp","responseCode":535,"command":"AUTH PLAIN","timestamp":"2020-05-07T05:13:32.412Z"}
+info: Password reset email was sent to skymailsenter@gmail.com {"timestamp":"2020-05-07T05:16:54.299Z"}
+info: Worker 17848 has started at port 3000 {"timestamp":"2020-05-07T05:20:47.839Z"}
+info: Worker 2688 has started at port 3000 {"timestamp":"2020-05-07T05:22:26.498Z"}
+info: Worker 1904 has started at port 3000 {"timestamp":"2020-05-07T05:25:48.579Z"}
+info: Worker 13912 has started at port 3000 {"timestamp":"2020-05-07T05:27:29.870Z"}
+info: Worker 20376 has started at port 3000 {"timestamp":"2020-05-07T05:48:30.308Z"}
+info: Worker 20388 has started at port 3000 {"timestamp":"2020-05-07T05:49:03.741Z"}
+info: Worker 6100 has started at port 3000 {"timestamp":"2020-05-07T05:50:16.490Z"}
+info: Worker 10744 has started at port 3000 {"timestamp":"2020-05-07T05:57:10.006Z"}
+info: Worker 20960 has started at port 3000 {"timestamp":"2020-05-07T05:59:10.490Z"}
+info: Worker 21472 has started at port 3000 {"timestamp":"2020-05-07T05:59:47.170Z"}
+info: Worker 18692 has started at port 3000 {"timestamp":"2020-05-07T05:59:58.794Z"}
+info: Worker 16484 has started at port 3000 {"timestamp":"2020-05-07T06:00:06.391Z"}
+info: Worker 13124 has started at port 3000 {"timestamp":"2020-05-07T06:03:19.868Z"}
+info: Worker 18500 has started at port 3000 {"timestamp":"2020-05-07T06:04:27.451Z"}
+info: Password reset email was sent to skymailsenter@gmail.com {"timestamp":"2020-05-07T06:04:33.791Z"}
+info: Worker 4192 has started at port 3000 {"timestamp":"2020-05-07T06:05:15.502Z"}
+info: Worker 20712 has started at port 3000 {"timestamp":"2020-05-07T06:05:32.299Z"}
+info: Worker 17768 has started at port 3000 {"timestamp":"2020-05-07T06:06:09.565Z"}
+info: Worker 7612 has started at port 3000 {"timestamp":"2020-05-07T06:06:47.995Z"}
+info: Worker 4008 has started at port 3000 {"timestamp":"2020-05-07T06:07:04.412Z"}
+info: Worker 20288 has started at port 3000 {"timestamp":"2020-05-07T06:07:26.744Z"}
+info: Worker 8972 has started at port 3000 {"timestamp":"2020-05-07T06:11:50.236Z"}
+info: Worker 21168 has started at port 3000 {"timestamp":"2020-05-07T06:16:04.896Z"}
+info: Worker 13612 has started at port 3000 {"timestamp":"2020-05-07T06:25:33.597Z"}
+info: Worker 5064 has started at port 3000 {"timestamp":"2020-05-07T06:26:10.547Z"}
+info: Worker 2144 has started at port 3000 {"timestamp":"2020-05-07T06:29:37.839Z"}
+info: Password reset email was sent to skymailsenter@gmail.com {"timestamp":"2020-05-07T06:30:59.380Z"}
+info: Worker 16352 has started at port 3000 {"timestamp":"2020-05-07T06:32:15.268Z"}
+info: User Егор Захаров (5eb3751bf24df63e1072d2a4) has successfully changed his password {"timestamp":"2020-05-07T06:32:25.734Z"}
+warn: !!!someone is trying to reset a password with an invalid Link!!! {"timestamp":"2020-05-07T06:32:46.479Z"}
+info: Worker 11184 has started at port 3000 {"timestamp":"2020-05-07T06:33:44.515Z"}
+info: User logged in: Егор Захаров, id: 5eb3751bf24df63e1072d2a4 {"timestamp":"2020-05-07T06:33:48.743Z"}
+info: Worker 1664 has started at port 3000 {"timestamp":"2020-05-07T06:35:57.853Z"}
+info: Worker 19280 has started at port 3000 {"timestamp":"2020-05-07T06:36:06.138Z"}
+info: User logged in: Егор Захаров, id: 5eb3751bf24df63e1072d2a4 {"timestamp":"2020-05-07T06:36:26.947Z"}
+info: Worker 2204 has started at port 3000 {"timestamp":"2020-05-07T06:37:05.513Z"}
+info: User logged in: Егор Захаров, id: 5eb3751bf24df63e1072d2a4 {"timestamp":"2020-05-07T06:37:12.671Z"}
+info: User logged in: Егор Захаров, id: 5eb3751bf24df63e1072d2a4 {"timestamp":"2020-05-07T06:37:37.413Z"}
+info: Worker 15132 has started at port 3000 {"timestamp":"2020-05-07T06:38:13.954Z"}
+info: Worker 21224 has started at port 3000 {"timestamp":"2020-05-07T06:38:33.766Z"}
+info: User logged in: Egor Zakharov, id: 5eb37512f24df63e1072d2a0 {"timestamp":"2020-05-07T06:39:01.818Z"}
+info: Worker 18996 has started at port 3000 {"timestamp":"2020-05-07T06:40:53.928Z"}
+info: Worker 19676 has started at port 3000 {"timestamp":"2020-05-07T06:42:33.319Z"}
+info: New user created: Егор Захаров, id: 5eb3ade1510fdc4cdcabd243 {"timestamp":"2020-05-07T06:42:41.346Z"}
+info: Worker 21196 has started at port 3000 {"timestamp":"2020-05-07T06:43:39.463Z"}
+info: Password reset email was sent to skymailsenter@gmail.com {"timestamp":"2020-05-07T06:44:01.336Z"}
+warn: !!!someone is trying to reset a password with an invalid Link!!! {"timestamp":"2020-05-07T06:44:30.688Z"}
+info: User Егор Захаров (5eb3ade1510fdc4cdcabd243) has successfully changed his password {"timestamp":"2020-05-07T06:44:57.478Z"}
+info: User logged in: Егор Захаров, id: 5eb3ade1510fdc4cdcabd243 {"timestamp":"2020-05-07T06:45:20.515Z"}
+info: Worker 19004 has started at port 3000 {"timestamp":"2020-05-07T06:46:55.306Z"}
+warn: !!!someone is trying to reset a password with an invalid Link!!! {"timestamp":"2020-05-07T06:47:13.138Z"}
+error: user is not defined {"timestamp":"2020-05-07T06:47:13.139Z"}
+info: Worker 20224 has started at port 3000 {"timestamp":"2020-05-07T06:50:08.729Z"}
+info: Worker 12528 has started at port 3000 {"timestamp":"2020-05-07T06:57:57.669Z"}
+info: Worker 2680 has started at port 3000 {"timestamp":"2020-05-07T07:00:09.582Z"}
+info: Worker 14284 has started at port 3000 {"timestamp":"2020-05-07T07:02:46.873Z"}
+info: Worker 16240 has started at port 3000 {"timestamp":"2020-05-07T07:05:00.038Z"}
+info: Worker 11896 has started at port 3000 {"timestamp":"2020-05-07T07:05:16.712Z"}
+info: Worker 19236 has started at port 3000 {"timestamp":"2020-05-07T07:05:34.722Z"}
+error: Sample error {"timestamp":"2020-05-07T07:05:35.185Z"}
+info: Worker 20892 has started at port 3000 {"timestamp":"2020-05-07T07:06:05.368Z"}
+error: Sample error {"timestamp":"2020-05-07T07:06:06.724Z"}
+info: Worker 20360 has started at port 3000 {"timestamp":"2020-05-07T07:08:53.974Z"}
+error: Sample error {"timestamp":"2020-05-07T07:08:56.615Z"}
+info: Worker 10228 has started at port 3000 {"timestamp":"2020-05-07T07:09:24.835Z"}
+info: Worker 12652 has started at port 3000 {"timestamp":"2020-05-07T07:12:02.052Z"}
+info: Worker 14104 has started at port 3000 {"timestamp":"2020-05-07T07:13:10.638Z"}
