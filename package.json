@@ -33,10 +33,10 @@
     "winston-transport": "^4.3.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "node cluster.js",
+    "dev": "nodemon cluster.js",
+    "single": "node worker.js",
+    "single-dev": "nodemon worker.js"
   },
   "eslintConfig": {
     "extends": "react-app"

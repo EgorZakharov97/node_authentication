@@ -5,7 +5,14 @@ const RequestLogSchema = new mongoose.Schema({
 	method: String,
 	responseTime: Number,
 	day: String,
-	hour: Number
+	hour: Number,
+	expireAt: {
+		type: Date,
+		default: Date.now(),
+		required: true
+	}
 });
+
+RequestLogSchema.index({ expireAt: 1 }, { expireAfterSeconds : 60 * 60 * 24 * 30 });
 
 module.exports = mongoose.model("RequestLog", RequestLogSchema);

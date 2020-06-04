@@ -1,5 +1,6 @@
 const winston = require('winston'),
-	Transport = require('winston-transport');
+	Transport = require('winston-transport'),
+	ConsoleLog = require('../models/ConsoleLog');
 
 // CUSTOM TRANSPORTER
 class MailTransport extends Transport {
@@ -24,6 +25,22 @@ class MailTransport extends Transport {
 	}
 }
 
+class DBTransport extends Transport {
+	constructor(opts) {
+		super(opts);
+
+	}
+
+	log(info, callback) {
+		setImmediate(() => {
+			this.emit('logged', info);
+		});
+		ConsoleLog.create(info);
+		// Perform the writing to the remote service
+		callback();
+	}
+}
+
 // LOGGER
 const logger = winston.createLogger({
 	level: "silly",
@@ -33,7 +50,7 @@ const logger = winston.createLogger({
 	),
 	transports: [
 		new winston.transports.File({filename: "info.log", level: "silly"}),
-		new winston.transports.File({filename: "error.log", level: "error"}),
+		new winston.transports.File({filename: "error.log", level: "error"})
 	]
 });
 if (process.env.NODE_ENV !== 'production') {
@@ -44,7 +61,8 @@ if (process.env.NODE_ENV !== 'production') {
 		)
 	}));
 } else {
-	logger.add(new MailTransport({level: "error"}))
+	logger.add(new MailTransport({level: "error"}));
+	logger.add(new DBTransport({level: "silly"}));
 }
 
 module.exports = logger;

@@ -242,3 +242,25 @@ error: user is not defined {"timestamp":"2020-05-07T06:47:13.139Z"}
 error: Sample error {"timestamp":"2020-05-07T07:05:35.185Z"}
 error: Sample error {"timestamp":"2020-05-07T07:06:06.724Z"}
 error: Sample error {"timestamp":"2020-05-07T07:08:56.615Z"}
+error: Sample error {"timestamp":"2020-05-07T21:38:19.469Z"}
+error: Sample error {"timestamp":"2020-05-07T21:39:23.202Z"}
+error: Sample error {"timestamp":"2020-05-07T21:41:33.019Z"}
+error: Sample error {"timestamp":"2020-05-07T21:42:22.126Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:25.825Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:25.826Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:25.827Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:25.828Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:25.829Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:29.656Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:29.694Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:29.705Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:29.742Z"}

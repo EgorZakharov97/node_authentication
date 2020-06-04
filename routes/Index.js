@@ -5,16 +5,17 @@ const express = require('express'),
 let router = express.Router();
 
 router.get('/', (req, res) => {
-	if(req.isAuthenticated()){
-		logger.error('Sample error');
-		res.send('Hello, ' + req.user.displayName);
+	if(req.session.visits){
+		req.session.visits++;
 	} else {
-		if(req.session.visits){
-			req.session.visits++;
-		} else {
-			req.session.visits = 1;
-		}
-		res.json({msg: 'Hello, stranger', visits: req.session.visits})
+		req.session.visits = 1;
+	}
+
+	if(req.isAuthenticated()){
+		res.send(`<h1>Hello, ${req.user.displayName}</h1><p>You have ${req.session.visits} visits</p><a href=/auth/logout>Logout</a>`);
+	} else {
+
+		res.send(`<h1>Hello, user</h1><p>You have ${req.session.visits} visits</p><a href=/auth/google>Authenticate with google</a><br/><a href=/auth/local>Authenticate locally</a>`)
 	}
 });
 

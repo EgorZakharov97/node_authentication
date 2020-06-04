@@ -85,31 +85,40 @@ router.get('/auth/local/reset', (req, res) => {
 });
 
 router.post('/auth/local/reset', (req, res) => {
-	User.findOne(req.body, (err, user) => {
-		if(err){
-			res.send("User with this email does not exist")
-		} else {
-			let secret = user.email + '|' + new Date().toString();
-			user.password.reset.hash = encrypt(secret);
+	if(req.body.email){
+		User.findOne(req.body, (err, user) => {
+			if(err){
+				res.send("User with this email does not exist")
+			} else {
+				if(user){
+					let secret = user.email + '|' + new Date().toString();
+					user.password.reset.hash = encrypt(secret);
 
-			let emailOptions = {
-				from: process.env.EMAIL,
-				to: user.email,
-				subject: 'TuttiFashion password reset',
-				html: `<p>Here is a link to reset your password. Do not share this link to anyone.</p><p>${process.env.ADDRESS + '/auth/local/reset/' + user.password.reset.hash}</p>`
-			};
+					let emailOptions = {
+						from: process.env.EMAIL,
+						to: user.email,
+						subject: 'TuttiFashion password reset',
+						html: `<p>Here is a link to reset your password. Do not share this link to anyone.</p><p>${process.env.ADDRESS + '/auth/local/reset/' + user.password.reset.hash}</p>`
+					};
 
-			mailTransporter.sendMail(emailOptions, (err, info) => {
-				if(err){
-					logger.error(err)
+					mailTransporter.sendMail(emailOptions, (err, info) => {
+						if(err){
+							logger.error(err)
+						} else {
+							logger.info(`Password reset email was sent to ${user.email}`);
+						}
+					});
+
+					res.send("Email confirmation has been sent to your email")
 				} else {
-					logger.info(`Password reset email was sent to ${user.email}`);
+					res.redirect('/auth/local/reset')
 				}
-			});
+			}
+		});
+	} else {
+		res.redirect('/auth/local/reset')
+	}
 
-			res.send("Email confirmation has been sent to your email")
-		}
-	});
 });
 
 router.get('/auth/local/reset/:code', (req, res) => {
@@ -156,7 +165,7 @@ router.post('/auth/local/reset/:code', (req, res) => {
 // logout a user
 router.get('/auth/logout', (req, res) => {
 	req.logout();
-	res.redirect('/auth');
+	res.redirect('/');
 });
 
 module.exports = router;

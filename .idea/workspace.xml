@@ -2,32 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f140957-e39f-4abf-a4d3-72fe86182859" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/authentication/authGoogle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authentication/authLocal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authentication/passportSetup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/authCheck.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/temp/Register-local.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/temp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/temp/new-password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/temp/reset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/encrypter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mailTransporter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/ConsoleLog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster.js" beforeDir="false" afterPath="$PROJECT_DIR$/cluster.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/authGoogle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/tools/logger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/redisSetup.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/redisSetup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/sessionAndAuthenticationSetup.js" beforeDir="false" afterPath="$PROJECT_DIR$/authentication/session.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/userAuthentication.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/RequestLog.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/RequestLog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/temp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/temp/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/Authentication.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/Authentication.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/Index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/tools/logger.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +43,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gangbang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
@@ -84,7 +70,10 @@
       <option name="presentableId" value="Default" />
       <updated>1588277631591</updated>
       <workItem from="1588277632702" duration="11270000" />
-      <workItem from="1588471103030" duration="58512000" />
+      <workItem from="1588471103030" duration="60881000" />
+      <workItem from="1590270868264" duration="1910000" />
+      <workItem from="1590358639247" duration="14000" />
+      <workItem from="1591229652689" duration="4809000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1588365720769</created>
@@ -107,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588792264656</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Authentication done:&#10;Using Google&#10;Using local-strategy&#10;Register local&#10;login local&#10;change password via email&#10;use local authentication from origin google&#10;logger.error sent to email for production">
+      <created>1588835698157</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588835698157</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,25 +112,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Redis applied for session and database queries" />
-    <option name="LAST_COMMIT_MESSAGE" value="Redis applied for session and database queries" />
+    <MESSAGE value="Authentication done:&#10;Using Google&#10;Using local-strategy&#10;Register local&#10;login local&#10;change password via email&#10;use local authentication from origin google&#10;logger.error sent to email for production" />
+    <option name="LAST_COMMIT_MESSAGE" value="Authentication done:&#10;Using Google&#10;Using local-strategy&#10;Register local&#10;login local&#10;change password via email&#10;use local authentication from origin google&#10;logger.error sent to email for production" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1650" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588278040491">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1650" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588278040491" />
-    <state x="1189" y="221" width="724" height="812" key="CommitChangelistDialog2" timestamp="1588792262677">
+    <state x="1189" y="221" width="724" height="812" key="CommitChangelistDialog2" timestamp="1588835696101">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1189" y="221" width="724" height="812" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1588792262677" />
+    <state x="1189" y="221" width="724" height="812" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1588835696101" />
     <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1588650645706">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1588650645706" />
-    <state x="1512" y="439" key="Vcs.Push.Dialog.v2" timestamp="1588792267449">
+    <state x="1512" y="439" key="Vcs.Push.Dialog.v2" timestamp="1588835699805">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1512" y="439" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1588792267449" />
+    <state x="1512" y="439" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1588835699805" />
     <state x="1728" y="622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588551674907">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

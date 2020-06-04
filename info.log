@@ -1991,3 +1991,224 @@ error: Sample error {"timestamp":"2020-05-07T07:08:56.615Z"}
 info: Worker 10228 has started at port 3000 {"timestamp":"2020-05-07T07:09:24.835Z"}
 info: Worker 12652 has started at port 3000 {"timestamp":"2020-05-07T07:12:02.052Z"}
 info: Worker 14104 has started at port 3000 {"timestamp":"2020-05-07T07:13:10.638Z"}
+info: Worker 18256 has started at port 3000 {"timestamp":"2020-05-07T21:18:57.115Z"}
+info: Worker 14896 has started at port 3000 {"timestamp":"2020-05-07T21:20:04.306Z"}
+info: Worker 11896 has started at port 3000 {"timestamp":"2020-05-07T21:20:17.292Z"}
+info: Worker 5504 has started at port 3000 {"timestamp":"2020-05-07T21:20:23.453Z"}
+info: Worker 18204 has started at port 3000 {"timestamp":"2020-05-07T21:20:32.722Z"}
+info: Worker 3828 has started at port 3000 {"timestamp":"2020-05-07T21:20:36.195Z"}
+info: Worker 13584 has started at port 3000 {"timestamp":"2020-05-07T21:20:46.151Z"}
+info: Worker 19408 has started at port 3000 {"timestamp":"2020-05-07T21:20:55.554Z"}
+info: Worker 13160 has started at port 3000 {"timestamp":"2020-05-07T21:27:46.500Z"}
+info: Worker 10936 has started at port 3000 {"timestamp":"2020-05-07T21:27:52.598Z"}
+info: Worker 21464 has started at port 3000 {"timestamp":"2020-05-07T21:27:56.694Z"}
+info: Worker 18928 has started at port 3000 {"timestamp":"2020-05-07T21:28:04.059Z"}
+info: Worker 19904 has started at port 3000 {"timestamp":"2020-05-07T21:28:23.029Z"}
+info: Worker 8348 has started at port 3000 {"timestamp":"2020-05-07T21:28:26.388Z"}
+info: Worker 6748 has started at port 3000 {"timestamp":"2020-05-07T21:28:51.465Z"}
+info: Worker 6728 has started at port 3000 {"timestamp":"2020-05-07T21:30:23.652Z"}
+info: Worker 10056 has started at port 3000 {"timestamp":"2020-05-07T21:36:36.126Z"}
+info: Worker 14424 has started at port 3000 {"timestamp":"2020-05-07T21:38:09.627Z"}
+info: User Егор Захаров (5eb3ade1510fdc4cdcabd243) just logged in {"timestamp":"2020-05-07T21:38:19.460Z"}
+error: Sample error {"timestamp":"2020-05-07T21:38:19.469Z"}
+info: Worker 9616 has started at port 3000 {"timestamp":"2020-05-07T21:39:22.815Z"}
+error: Sample error {"timestamp":"2020-05-07T21:39:23.202Z"}
+info: Worker 10756 has started at port 3000 {"timestamp":"2020-05-07T21:40:40.558Z"}
+info: Worker 11992 has started at port 3000 {"timestamp":"2020-05-07T21:41:31.735Z"}
+error: Sample error {"timestamp":"2020-05-07T21:41:33.019Z"}
+info: Worker 9280 has started at port 3000 {"timestamp":"2020-05-07T21:42:20.595Z"}
+error: Sample error {"timestamp":"2020-05-07T21:42:22.126Z"}
+info: Worker 20176 has started at port 3000 {"timestamp":"2020-05-07T21:44:44.359Z"}
+info: The master process has pid 29148 {"timestamp":"2020-06-04T00:15:19.547Z"}
+info: Worker 47888 has started at port 3000 {"timestamp":"2020-06-04T00:15:23.829Z"}
+info: Worker 39628 has started at port 3000 {"timestamp":"2020-06-04T00:15:23.830Z"}
+info: Worker 22864 has started at port 3000 {"timestamp":"2020-06-04T00:15:23.828Z"}
+info: Worker 39792 has started at port 3000 {"timestamp":"2020-06-04T00:15:23.828Z"}
+info: Worker 34416 has started at port 3000 {"timestamp":"2020-06-04T00:15:23.829Z"}
+info: Worker 23104 has started at port 3000 {"timestamp":"2020-06-04T00:15:23.834Z"}
+info: Worker 23528 has started at port 3000 {"timestamp":"2020-06-04T00:15:23.849Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:25.826Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:25.825Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:25.827Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:25.828Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:25.829Z"}
+warn: Worker died! Pid: 39628 {"timestamp":"2020-06-04T00:15:25.886Z"}
+warn: Worker died! Pid: 47888 {"timestamp":"2020-06-04T00:15:25.895Z"}
+warn: Worker died! Pid: 23104 {"timestamp":"2020-06-04T00:15:25.901Z"}
+warn: Worker died! Pid: 34416 {"timestamp":"2020-06-04T00:15:25.907Z"}
+warn: Worker died! Pid: 39792 {"timestamp":"2020-06-04T00:15:25.913Z"}
+warn: Worker died! Pid: 23528 {"timestamp":"2020-06-04T00:15:25.918Z"}
+warn: Worker died! Pid: 22864 {"timestamp":"2020-06-04T00:15:25.923Z"}
+info: Worker 23196 has started at port 3000 {"timestamp":"2020-06-04T00:15:27.664Z"}
+info: Worker 42960 has started at port 3000 {"timestamp":"2020-06-04T00:15:27.716Z"}
+info: Worker 45568 has started at port 3000 {"timestamp":"2020-06-04T00:15:27.722Z"}
+info: Worker 44288 has started at port 3000 {"timestamp":"2020-06-04T00:15:27.715Z"}
+info: Worker 16000 has started at port 3000 {"timestamp":"2020-06-04T00:15:27.710Z"}
+info: Worker 49536 has started at port 3000 {"timestamp":"2020-06-04T00:15:27.715Z"}
+info: Worker 22676 has started at port 3000 {"timestamp":"2020-06-04T00:15:27.755Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:29.656Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:29.694Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:29.705Z"}
+error: Redis error:
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379 {"timestamp":"2020-06-04T00:15:29.742Z"}
+info: The master process has pid 16712 {"timestamp":"2020-06-04T00:17:22.700Z"}
+info: Worker 34176 has started at port 3000 {"timestamp":"2020-06-04T00:17:24.379Z"}
+info: Worker 38708 has started at port 3000 {"timestamp":"2020-06-04T00:17:24.399Z"}
+info: Worker 14916 has started at port 3000 {"timestamp":"2020-06-04T00:17:24.493Z"}
+info: Worker 49264 has started at port 3000 {"timestamp":"2020-06-04T00:17:24.506Z"}
+info: Worker 43796 has started at port 3000 {"timestamp":"2020-06-04T00:17:24.526Z"}
+info: Worker 12256 has started at port 3000 {"timestamp":"2020-06-04T00:17:24.536Z"}
+info: Worker 9256 has started at port 3000 {"timestamp":"2020-06-04T00:17:24.534Z"}
+info: The master process has pid 16248 {"timestamp":"2020-06-04T00:21:06.959Z"}
+info: Worker 21824 has started at port 3000 {"timestamp":"2020-06-04T00:21:08.752Z"}
+info: Worker 14076 has started at port 3000 {"timestamp":"2020-06-04T00:21:08.770Z"}
+info: Worker 35308 has started at port 3000 {"timestamp":"2020-06-04T00:21:08.779Z"}
+info: Worker 25412 has started at port 3000 {"timestamp":"2020-06-04T00:21:08.896Z"}
+info: Worker 31260 has started at port 3000 {"timestamp":"2020-06-04T00:21:08.930Z"}
+info: Worker 42440 has started at port 3000 {"timestamp":"2020-06-04T00:21:08.925Z"}
+info: Worker 25424 has started at port 3000 {"timestamp":"2020-06-04T00:21:08.967Z"}
+info: The master process has pid 18120 {"timestamp":"2020-06-04T00:22:01.124Z"}
+info: Worker 37196 has started at port 3000 {"timestamp":"2020-06-04T00:22:02.987Z"}
+info: Worker 31592 has started at port 3000 {"timestamp":"2020-06-04T00:22:03.023Z"}
+info: Worker 23460 has started at port 3000 {"timestamp":"2020-06-04T00:22:03.038Z"}
+info: Worker 36368 has started at port 3000 {"timestamp":"2020-06-04T00:22:03.046Z"}
+info: Worker 21460 has started at port 3000 {"timestamp":"2020-06-04T00:22:03.037Z"}
+info: Worker 31416 has started at port 3000 {"timestamp":"2020-06-04T00:22:03.063Z"}
+info: Worker 41248 has started at port 3000 {"timestamp":"2020-06-04T00:22:03.064Z"}
+info: The master process has pid 22588 {"timestamp":"2020-06-04T00:22:30.285Z"}
+info: Worker 12356 has started at port 3000 {"timestamp":"2020-06-04T00:22:32.177Z"}
+info: Worker 18972 has started at port 3000 {"timestamp":"2020-06-04T00:22:32.262Z"}
+info: Worker 20568 has started at port 3000 {"timestamp":"2020-06-04T00:22:32.290Z"}
+info: Worker 47648 has started at port 3000 {"timestamp":"2020-06-04T00:22:32.322Z"}
+info: Worker 28796 has started at port 3000 {"timestamp":"2020-06-04T00:22:32.333Z"}
+info: Worker 27064 has started at port 3000 {"timestamp":"2020-06-04T00:22:32.400Z"}
+info: Worker 35004 has started at port 3000 {"timestamp":"2020-06-04T00:22:32.439Z"}
+info: User Егор Захаров (5eb3ade1510fdc4cdcabd243) just logged in {"timestamp":"2020-06-04T00:22:35.238Z"}
+info: The master process has pid 43948 {"timestamp":"2020-06-04T00:23:27.411Z"}
+info: Worker 28508 has started at port 3000 {"timestamp":"2020-06-04T00:23:29.334Z"}
+info: Worker 30564 has started at port 3000 {"timestamp":"2020-06-04T00:23:29.357Z"}
+info: Worker 26664 has started at port 3000 {"timestamp":"2020-06-04T00:23:29.369Z"}
+info: Worker 26408 has started at port 3000 {"timestamp":"2020-06-04T00:23:29.343Z"}
+info: Worker 19476 has started at port 3000 {"timestamp":"2020-06-04T00:23:29.450Z"}
+info: Worker 24932 has started at port 3000 {"timestamp":"2020-06-04T00:23:29.451Z"}
+info: Worker 25560 has started at port 3000 {"timestamp":"2020-06-04T00:23:29.456Z"}
+warn: Worker died! Pid: 25560 {"timestamp":"2020-06-04T00:24:00.974Z"}
+warn: Worker died! Pid: 26408 {"timestamp":"2020-06-04T00:24:00.982Z"}
+info: The master process has pid 25308 {"timestamp":"2020-06-04T00:24:01.637Z"}
+info: Worker 30336 has started at port 3000 {"timestamp":"2020-06-04T00:24:03.639Z"}
+info: Worker 48260 has started at port 3000 {"timestamp":"2020-06-04T00:24:03.659Z"}
+info: Worker 33472 has started at port 3000 {"timestamp":"2020-06-04T00:24:03.697Z"}
+info: Worker 7868 has started at port 3000 {"timestamp":"2020-06-04T00:24:03.727Z"}
+info: Worker 1464 has started at port 3000 {"timestamp":"2020-06-04T00:24:03.742Z"}
+info: Worker 42732 has started at port 3000 {"timestamp":"2020-06-04T00:24:03.777Z"}
+info: Worker 26816 has started at port 3000 {"timestamp":"2020-06-04T00:24:03.814Z"}
+info: The master process has pid 37776 {"timestamp":"2020-06-04T00:24:37.085Z"}
+info: Worker 28708 has started at port 3000 {"timestamp":"2020-06-04T00:24:38.933Z"}
+info: Worker 21500 has started at port 3000 {"timestamp":"2020-06-04T00:24:38.938Z"}
+info: Worker 43248 has started at port 3000 {"timestamp":"2020-06-04T00:24:38.948Z"}
+info: Worker 24652 has started at port 3000 {"timestamp":"2020-06-04T00:24:39.015Z"}
+info: Worker 22540 has started at port 3000 {"timestamp":"2020-06-04T00:24:39.002Z"}
+info: Worker 19920 has started at port 3000 {"timestamp":"2020-06-04T00:24:39.031Z"}
+info: Worker 22116 has started at port 3000 {"timestamp":"2020-06-04T00:24:39.077Z"}
+info: User Егор Захаров (5eb3ade1510fdc4cdcabd243) just logged in {"timestamp":"2020-06-04T00:24:56.362Z"}
+info: The master process has pid 28320 {"timestamp":"2020-06-04T00:25:21.670Z"}
+info: Worker 44028 has started at port 3000 {"timestamp":"2020-06-04T00:25:23.306Z"}
+info: Worker 15216 has started at port 3000 {"timestamp":"2020-06-04T00:25:23.321Z"}
+info: Worker 49624 has started at port 3000 {"timestamp":"2020-06-04T00:25:23.321Z"}
+info: Worker 45420 has started at port 3000 {"timestamp":"2020-06-04T00:25:23.317Z"}
+info: Worker 36500 has started at port 3000 {"timestamp":"2020-06-04T00:25:23.366Z"}
+info: Worker 47788 has started at port 3000 {"timestamp":"2020-06-04T00:25:23.374Z"}
+info: Worker 48968 has started at port 3000 {"timestamp":"2020-06-04T00:25:23.416Z"}
+info: User Егор Захаров (5eb3ade1510fdc4cdcabd243) just logged in {"timestamp":"2020-06-04T00:25:30.419Z"}
+info: The master process has pid 29080 {"timestamp":"2020-06-04T00:25:59.246Z"}
+info: Worker 16120 has started at port 3000 {"timestamp":"2020-06-04T00:26:00.946Z"}
+info: Worker 19624 has started at port 3000 {"timestamp":"2020-06-04T00:26:00.954Z"}
+info: Worker 28000 has started at port 3000 {"timestamp":"2020-06-04T00:26:00.960Z"}
+info: Worker 39488 has started at port 3000 {"timestamp":"2020-06-04T00:26:00.977Z"}
+info: Worker 14980 has started at port 3000 {"timestamp":"2020-06-04T00:26:01.008Z"}
+info: Worker 23980 has started at port 3000 {"timestamp":"2020-06-04T00:26:01.040Z"}
+info: Worker 18436 has started at port 3000 {"timestamp":"2020-06-04T00:26:01.057Z"}
+info: User Егор Захаров (5eb3ade1510fdc4cdcabd243) just logged in {"timestamp":"2020-06-04T00:26:10.988Z"}
+info: The master process has pid 42660 {"timestamp":"2020-06-04T00:26:39.274Z"}
+info: Worker 27780 has started at port 3000 {"timestamp":"2020-06-04T00:26:41.140Z"}
+info: Worker 396 has started at port 3000 {"timestamp":"2020-06-04T00:26:41.122Z"}
+info: Worker 20220 has started at port 3000 {"timestamp":"2020-06-04T00:26:41.202Z"}
+info: Worker 26792 has started at port 3000 {"timestamp":"2020-06-04T00:26:41.196Z"}
+info: Worker 10552 has started at port 3000 {"timestamp":"2020-06-04T00:26:41.216Z"}
+info: Worker 41948 has started at port 3000 {"timestamp":"2020-06-04T00:26:41.232Z"}
+info: Worker 44416 has started at port 3000 {"timestamp":"2020-06-04T00:26:41.244Z"}
+info: User Егор Захаров (5eb3ade1510fdc4cdcabd243) just logged in {"timestamp":"2020-06-04T00:26:43.234Z"}
+info: The master process has pid 18980 {"timestamp":"2020-06-04T00:27:38.518Z"}
+info: Worker 9004 has started at port 3000 {"timestamp":"2020-06-04T00:27:40.169Z"}
+info: Worker 27040 has started at port 3000 {"timestamp":"2020-06-04T00:27:40.182Z"}
+info: Worker 20300 has started at port 3000 {"timestamp":"2020-06-04T00:27:40.185Z"}
+info: Worker 46628 has started at port 3000 {"timestamp":"2020-06-04T00:27:40.186Z"}
+info: Worker 16584 has started at port 3000 {"timestamp":"2020-06-04T00:27:40.194Z"}
+info: Worker 40100 has started at port 3000 {"timestamp":"2020-06-04T00:27:40.216Z"}
+info: Worker 40128 has started at port 3000 {"timestamp":"2020-06-04T00:27:40.220Z"}
+info: The master process has pid 47908 {"timestamp":"2020-06-04T00:27:49.393Z"}
+info: Worker 3420 has started at port 3000 {"timestamp":"2020-06-04T00:27:51.072Z"}
+info: Worker 36684 has started at port 3000 {"timestamp":"2020-06-04T00:27:51.077Z"}
+info: Worker 26568 has started at port 3000 {"timestamp":"2020-06-04T00:27:51.097Z"}
+info: Worker 34600 has started at port 3000 {"timestamp":"2020-06-04T00:27:51.114Z"}
+info: Worker 32028 has started at port 3000 {"timestamp":"2020-06-04T00:27:51.108Z"}
+info: Worker 20776 has started at port 3000 {"timestamp":"2020-06-04T00:27:51.149Z"}
+info: Worker 46776 has started at port 3000 {"timestamp":"2020-06-04T00:27:51.167Z"}
+info: The master process has pid 45944 {"timestamp":"2020-06-04T00:28:07.183Z"}
+info: Worker 38956 has started at port 3000 {"timestamp":"2020-06-04T00:28:09.018Z"}
+info: Worker 15400 has started at port 3000 {"timestamp":"2020-06-04T00:28:09.020Z"}
+info: Worker 32520 has started at port 3000 {"timestamp":"2020-06-04T00:28:09.026Z"}
+info: Worker 20396 has started at port 3000 {"timestamp":"2020-06-04T00:28:09.041Z"}
+info: Worker 47208 has started at port 3000 {"timestamp":"2020-06-04T00:28:09.058Z"}
+info: Worker 44968 has started at port 3000 {"timestamp":"2020-06-04T00:28:09.096Z"}
+info: Worker 30316 has started at port 3000 {"timestamp":"2020-06-04T00:28:09.121Z"}
+info: User logged in: Егор Захаров, id: 5eb3ade1510fdc4cdcabd243 {"timestamp":"2020-06-04T00:28:22.057Z"}
+warn: Worker died! Pid: 30316 {"timestamp":"2020-06-04T00:29:31.065Z"}
+warn: Worker died! Pid: 44968 {"timestamp":"2020-06-04T00:29:31.175Z"}
+info: Worker 16032 has started at port 3000 {"timestamp":"2020-06-04T00:29:32.160Z"}
+info: Worker 34728 has started at port 3000 {"timestamp":"2020-06-04T00:29:32.231Z"}
+info: The master process has pid 40588 {"timestamp":"2020-06-04T00:31:00.383Z"}
+info: Worker 30092 has started at port 3000 {"timestamp":"2020-06-04T00:31:02.306Z"}
+info: Worker 37536 has started at port 3000 {"timestamp":"2020-06-04T00:31:02.334Z"}
+info: Worker 3680 has started at port 3000 {"timestamp":"2020-06-04T00:31:02.347Z"}
+info: Worker 18072 has started at port 3000 {"timestamp":"2020-06-04T00:31:02.353Z"}
+info: Worker 10716 has started at port 3000 {"timestamp":"2020-06-04T00:31:02.412Z"}
+info: Worker 30380 has started at port 3000 {"timestamp":"2020-06-04T00:31:02.435Z"}
+info: Worker 3660 has started at port 3000 {"timestamp":"2020-06-04T00:31:02.466Z"}
+warn: Worker died! Pid: 3660 {"timestamp":"2020-06-04T00:31:06.793Z"}
+info: Worker 9344 has started at port 3000 {"timestamp":"2020-06-04T00:31:07.779Z"}
+info: The master process has pid 48816 {"timestamp":"2020-06-04T00:32:17.705Z"}
+info: Worker 22496 has started at port 3000 {"timestamp":"2020-06-04T00:32:19.710Z"}
+info: Worker 16544 has started at port 3000 {"timestamp":"2020-06-04T00:32:19.794Z"}
+info: Worker 43352 has started at port 3000 {"timestamp":"2020-06-04T00:32:19.885Z"}
+info: Worker 32268 has started at port 3000 {"timestamp":"2020-06-04T00:32:19.879Z"}
+info: Worker 43984 has started at port 3000 {"timestamp":"2020-06-04T00:32:19.897Z"}
+info: Worker 5016 has started at port 3000 {"timestamp":"2020-06-04T00:32:19.906Z"}
+info: Worker 31008 has started at port 3000 {"timestamp":"2020-06-04T00:32:19.924Z"}
+info: Password reset email was sent to skymailsenter@gmail.com {"timestamp":"2020-06-04T00:32:29.378Z"}
+info: User Егор Захаров (5eb3ade1510fdc4cdcabd243) has successfully changed his password {"timestamp":"2020-06-04T00:32:44.904Z"}
+info: User logged in: Егор Захаров, id: 5eb3ade1510fdc4cdcabd243 {"timestamp":"2020-06-04T00:32:59.620Z"}
+info: The master process has pid 7200 {"timestamp":"2020-06-04T00:34:56.438Z"}
+info: Worker 29900 has started at port 3000 {"timestamp":"2020-06-04T00:34:58.866Z"}
+info: Worker 45076 has started at port 3000 {"timestamp":"2020-06-04T00:34:58.898Z"}
+info: Worker 29504 has started at port 3000 {"timestamp":"2020-06-04T00:34:59.000Z"}
+info: Worker 29672 has started at port 3000 {"timestamp":"2020-06-04T00:34:59.019Z"}
+info: Worker 21544 has started at port 3000 {"timestamp":"2020-06-04T00:34:59.020Z"}
+info: Worker 34448 has started at port 3000 {"timestamp":"2020-06-04T00:34:59.034Z"}
+info: Worker 31968 has started at port 3000 {"timestamp":"2020-06-04T00:34:59.060Z"}
+info: The master process has pid 48124 {"timestamp":"2020-06-04T00:35:50.941Z"}
+info: Worker 23832 has started at port 3000 {"timestamp":"2020-06-04T00:35:52.660Z"}
+info: Worker 1068 has started at port 3000 {"timestamp":"2020-06-04T00:35:52.696Z"}
+info: Worker 12092 has started at port 3000 {"timestamp":"2020-06-04T00:35:52.686Z"}
+info: Worker 34524 has started at port 3000 {"timestamp":"2020-06-04T00:35:52.704Z"}
+info: Worker 44464 has started at port 3000 {"timestamp":"2020-06-04T00:35:52.703Z"}
+info: Worker 29932 has started at port 3000 {"timestamp":"2020-06-04T00:35:52.739Z"}
+info: Worker 6516 has started at port 3000 {"timestamp":"2020-06-04T00:35:52.744Z"}
